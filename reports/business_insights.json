@@ -1,0 +1,171 @@
+{
+    "overall": {
+        "total_sales": 1565804.32,
+        "total_profit": 175262.11,
+        "profit_margin": 11.19,
+        "return_rate": 4.86,
+        "critical_risk_count": 3,
+        "warning_risk_count": 1,
+        "critical_risks": [
+            "Office Supplies experienced a -11.57 percentage-point margin change and 13.33% profit change.",
+            "Furniture experienced a -2.40 percentage-point margin change and -56.81% profit change.",
+            "Overall profit margin declined by 5.16 percentage points."
+        ],
+        "warning_risks": [
+            "Technology experienced a -2.10 percentage-point margin change and 27.43% profit change."
+        ]
+    },
+    "top_risks": [
+        {
+            "area": "Binders",
+            "severity": "critical",
+            "message": "Binders: profit declined by $2,545.89; margin declined by 18.14 percentage points."
+        },
+        {
+            "area": "Paper",
+            "severity": "warning",
+            "message": "Paper: profit increased by $2,969.31; margin declined by 26.40 percentage points."
+        },
+        {
+            "area": "Machines",
+            "severity": "critical",
+            "message": "Machines: profit declined by $5,776.53; margin declined by 12.76 percentage points."
+        },
+        {
+            "area": "Tables",
+            "severity": "warning",
+            "message": "Tables: profit declined by $5,189.75; margin declined by 8.76 percentage points."
+        },
+        {
+            "area": "Art",
+            "severity": "warning",
+            "message": "Art: profit increased by $808.00; margin declined by 18.76 percentage points."
+        }
+    ],
+    "top_product_risks": [
+        {
+            "product": "Ibico EPK-21 Electric Binding System",
+            "severity": "critical",
+            "risk_score": 6860.67,
+            "message": "Ibico EPK-21 Electric Binding System generated a $2,929.48 loss in 2020, with profit declining by $4,573.78."
+        },
+        {
+            "product": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "severity": "critical",
+            "risk_score": 6163.94,
+            "message": "GBC Ibimaster 500 Manual ProClick Binding System generated a $1,141.47 loss in 2020, with profit declining by $4,109.29."
+        },
+        {
+            "product": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "severity": "critical",
+            "risk_score": 4766.21,
+            "message": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind increased sales by $5,180.96, but profit declined by $2,541.98."
+        },
+        {
+            "product": "Ibico Hi-Tech Manual Binding System",
+            "severity": "high",
+            "risk_score": 2087.27,
+            "message": "Ibico Hi-Tech Manual Binding System increased sales by $1,243.47, but profit declined by $1,113.21."
+        },
+        {
+            "product": "Wilson Jones Elliptical Ring 3 1/2\" Capacity Binders, 800 sheets",
+            "severity": "medium",
+            "risk_score": 418.11,
+            "message": "Wilson Jones Elliptical Ring 3 1/2\" Capacity Binders, 800 sheets increased sales by $0.84, but profit declined by $222.99."
+        }
+    ],
+    "recommendations": [
+        {
+            "area": "Binders",
+            "severity": "critical",
+            "risk": "Binders: profit changed by $-2,545.89; margin changed by -18.14 percentage points.",
+            "recommendation": "Prioritize Binders for profitability review. Investigate pricing, discounting, product costs, and fulfillment expenses."
+        },
+        {
+            "area": "Paper",
+            "severity": "warning",
+            "risk": "Paper: profit changed by $2,969.31; margin changed by -26.40 percentage points.",
+            "recommendation": "Review margin leakage in Paper. Although profit increased, the declining margin suggests that sales growth may be coming at the expense of profitability."
+        },
+        {
+            "area": "Machines",
+            "severity": "critical",
+            "risk": "Machines: profit changed by $-5,776.53; margin changed by -12.76 percentage points.",
+            "recommendation": "Prioritize Machines for profitability review. Investigate pricing, discounting, product costs, and fulfillment expenses."
+        },
+        {
+            "area": "Tables",
+            "severity": "warning",
+            "risk": "Tables: profit changed by $-5,189.75; margin changed by -8.76 percentage points.",
+            "recommendation": "Prioritize Tables for profitability review. Investigate pricing, discounting, product costs, and fulfillment expenses."
+        },
+        {
+            "area": "Art",
+            "severity": "warning",
+            "risk": "Art: profit changed by $808.00; margin changed by -18.76 percentage points.",
+            "recommendation": "Review margin leakage in Art. Although profit increased, the declining margin suggests that sales growth may be coming at the expense of profitability."
+        }
+    ],
+    "product_recommendations": [
+        {
+            "product": "Ibico EPK-21 Electric Binding System",
+            "severity": "critical",
+            "risk_score": 6860.67,
+            "recommendation": "Immediate review recommended for Ibico EPK-21 Electric Binding System. The product generated a loss in 2020 and profit declined by $4,573.78. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "GBC Ibimaster 500 Manual ProClick Binding System",
+            "severity": "critical",
+            "risk_score": 6163.94,
+            "recommendation": "Immediate review recommended for GBC Ibimaster 500 Manual ProClick Binding System. The product generated a loss in 2020 and profit declined by $4,109.29. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind",
+            "severity": "critical",
+            "risk_score": 4766.21,
+            "recommendation": "Immediate review recommended for Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind. The product generated a loss in 2020 and profit declined by $2,541.98. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Ibico Hi-Tech Manual Binding System",
+            "severity": "high",
+            "risk_score": 2087.27,
+            "recommendation": "Immediate review recommended for Ibico Hi-Tech Manual Binding System. The product generated a loss in 2020 and profit declined by $1,113.21. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Wilson Jones Elliptical Ring 3 1/2\" Capacity Binders, 800 sheets",
+            "severity": "medium",
+            "risk_score": 418.11,
+            "recommendation": "Immediate review recommended for Wilson Jones Elliptical Ring 3 1/2\" Capacity Binders, 800 sheets. The product generated a loss in 2020 and profit declined by $222.99. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2\" x 11\"",
+            "severity": "medium",
+            "risk_score": 365.31,
+            "recommendation": "Immediate review recommended for Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2\" x 11\". The product generated a loss in 2020 and profit declined by $243.54. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Ibico EB-19 Dual Function Manual Binding System",
+            "severity": "medium",
+            "risk_score": 269.86,
+            "recommendation": "Investigate the profitability decline of Ibico EB-19 Dual Function Manual Binding System. Review demand, pricing, product costs, and sales volume."
+        },
+        {
+            "product": "Surelock Post Binders",
+            "severity": "low",
+            "risk_score": 223.46,
+            "recommendation": "Immediate review recommended for Surelock Post Binders. The product generated a loss in 2020 and profit declined by $119.18. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "Deluxe Heavy-Duty Vinyl Round Ring Binder",
+            "severity": "low",
+            "risk_score": 221.32,
+            "recommendation": "Immediate review recommended for Deluxe Heavy-Duty Vinyl Round Ring Binder. The product generated a loss in 2020 and profit declined by $118.04. Review pricing, discounts, product costs, and consider repricing or discontinuation if losses persist."
+        },
+        {
+            "product": "GBC ProClick Punch Binding System",
+            "severity": "low",
+            "risk_score": 173.39,
+            "recommendation": "Investigate the profitability decline of GBC ProClick Punch Binding System. Review demand, pricing, product costs, and sales volume."
+        }
+    ]
+}
